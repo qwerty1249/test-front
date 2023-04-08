@@ -8,7 +8,7 @@ const UserImage = ({ image, size = "60px" }) => {
         width={size}
         height={size}
         alt="user"
-        src={`https://mern-social-media-pied.vercel.app/assets/${image}`}
+        src={`https://embarrassed-pig-earmuffs.cyclic.app/assets/${image}`}
       />
     </Box>
   );
